@@ -3,6 +3,8 @@
 using namespace std;
 
 int main () {
+    // char city[] = {'A','B','c','\O'};
+     //char city2[] = ["ABC","DEF"];
 
         char name[] = {"Anukul"};
         int nameLength = 6;
